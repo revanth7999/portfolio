@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/revanth.github.io/static/js/app.ec84504b.chunk.js",
-    "app.js.map": "/revanth.github.io/static/js/app.ec84504b.chunk.js.map",
-    "runtime~app.js": "/revanth.github.io/static/js/runtime~app.3acaa5a5.js",
-    "runtime~app.js.map": "/revanth.github.io/static/js/runtime~app.3acaa5a5.js.map",
-    "static/js/2.9fe4cdae.chunk.js": "/revanth.github.io/static/js/2.9fe4cdae.chunk.js",
-    "static/js/2.9fe4cdae.chunk.js.map": "/revanth.github.io/static/js/2.9fe4cdae.chunk.js.map",
-    "favicon-16.png": "/revanth.github.io/favicon-16.png",
-    "favicon-32.png": "/revanth.github.io/favicon-32.png",
-    "favicon.ico": "/revanth.github.io/favicon.ico",
-    "index.html": "/revanth.github.io/index.html",
-    "manifest.json": "/revanth.github.io/manifest.json",
-    "serve.json": "/revanth.github.io/serve.json",
-    "static/js/2.9fe4cdae.chunk.js.LICENSE.txt": "/revanth.github.io/static/js/2.9fe4cdae.chunk.js.LICENSE.txt",
-    "static/media/c1.png": "/revanth.github.io/static/media/c1.48f50e5a.png"
+    "app.js": "/portfolio/static/js/app.ec84504b.chunk.js",
+    "app.js.map": "/portfolio/static/js/app.ec84504b.chunk.js.map",
+    "runtime~app.js": "/portfolio/static/js/runtime~app.cfa596ba.js",
+    "runtime~app.js.map": "/portfolio/static/js/runtime~app.cfa596ba.js.map",
+    "static/js/2.9fe4cdae.chunk.js": "/portfolio/static/js/2.9fe4cdae.chunk.js",
+    "static/js/2.9fe4cdae.chunk.js.map": "/portfolio/static/js/2.9fe4cdae.chunk.js.map",
+    "favicon-16.png": "/portfolio/favicon-16.png",
+    "favicon-32.png": "/portfolio/favicon-32.png",
+    "favicon.ico": "/portfolio/favicon.ico",
+    "index.html": "/portfolio/index.html",
+    "manifest.json": "/portfolio/manifest.json",
+    "serve.json": "/portfolio/serve.json",
+    "static/js/2.9fe4cdae.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9fe4cdae.chunk.js.LICENSE.txt",
+    "static/media/c1.png": "/portfolio/static/media/c1.48f50e5a.png"
   },
   "entrypoints": [
-    "static/js/runtime~app.3acaa5a5.js",
+    "static/js/runtime~app.cfa596ba.js",
     "static/js/2.9fe4cdae.chunk.js",
     "static/js/app.ec84504b.chunk.js"
   ]
